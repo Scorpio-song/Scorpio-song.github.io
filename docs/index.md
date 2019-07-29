@@ -33,9 +33,9 @@ web前端开发 , 主要接触到的语言就是 ` Javascript ` , 主要技术�
 我的联系方式 ` QQ 97527027 ` ` +86-18686535270 ` ` +63-9777738618 `
 
 
-<!-- #### 下载APP
+#### 下载APP
 
-<a href="https://Scorpio-nan.github.io/resouce/iphone.mobileconfig" download="mobileconfig">mobileconfig</a>  如果您的手机是苹果手机可以点击下载到您的手机观看，期限为1天 -->
+<a href="https://Scorpio-song.github.io/resouce/iphone.mobileconfig" download="mobileconfig">mobileconfig</a>  如果您的手机是苹果手机可以点击下载到您的手机观看，期限为1天
 
 #### 链接
 
