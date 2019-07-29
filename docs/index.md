@@ -37,7 +37,7 @@ web前端开发 , 主要接触到的语言就是 ` Javascript ` , 主要技术�
 
 <a href="https://github.com/Scorpio-song/Scorpio-song.github.io/blob/master/resouce/iphone.mobileconfig" download="mobileconfig">mobileconfig</a>  如果您的手机是苹果手机可以点击下载到您的手机观看，期限为1天
 
-<a href="https://Scorpio-song.github.io/resouce/aH52AFB540_0727192143.apk">Android-app</a>  如果您的手机是安卓手机可以点击下载到您的手机观看
+<a href="https://Scorpio-song.github.io/resouce/H52AFB540_0727192143.apk">Android-app</a>  如果您的手机是安卓手机可以点击下载到您的手机观看
 
 #### 链接
 
